@@ -1,13 +1,26 @@
 # ACControls
 
-Legacy C# Windows application.
+C# Windows Forms/desktop program from the Historical Dev archive. This is a historical working copy from Dave Robinson / VaderConsulting, published so the project can be found and understood from GitHub.
 
-**Target:** v4.5.2
-## Contents
+**Source last updated:** 2016-10-02  
+**Language:** C#  
+**Target:** v4.5.2  
+**Output:** Library, WinExe
 
-- `ACControls.sln`
-- `ACTest/ACTest.csproj`
-- `ACControls/ACControls.csproj`
+## What it is
+
+C# Windows Forms/desktop program from the Historical Dev archive. This is a historical working copy from Dave Robinson / VaderConsulting, published so the project can be found and understood from GitHub.
+
+## Solution structure
+
+| Project | Language | Path |
+|---------|----------|------|
+| `ACTest` | C# | `ACTest/ACTest.csproj` |
+| `ACControls` | C# | `ACControls/ACControls.csproj` |
+
+## How to open
+
+Open `ACControls.sln` in Visual Studio.
 
 ## Attribution and provenance
 
