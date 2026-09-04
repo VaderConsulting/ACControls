@@ -22,6 +22,10 @@ C# Windows Forms/desktop program from the Historical Dev archive. This is a hist
 
 Open `ACControls.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2015, .NET Framework 4.5.2
+
 ## Attribution and provenance
 
 - **Assembly copyright:** Copyright ©  2016
