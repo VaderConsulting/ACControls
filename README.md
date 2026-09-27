@@ -1,35 +1,30 @@
 # ACControls
 
-C# Windows Forms/desktop program from the Historical Dev archive. This is a historical working copy from Dave Robinson / VaderConsulting, published so the project can be found and understood from GitHub.
+C# Windows Forms library and test host for custom UI controls. The ACControls class library and ACTest WinExe exercise the control set under .NET Framework 4.5.2.
 
-**Source last updated:** 2016-10-02  
-**Language:** C#  
-**Target:** v4.5.2  
-**Output:** Library, WinExe
-
-## What it is
-
-C# Windows Forms/desktop program from the Historical Dev archive. This is a historical working copy from Dave Robinson / VaderConsulting, published so the project can be found and understood from GitHub.
+**Source last updated:** 2016-10-02 · **Language:** C# · **Target:** .NET Framework 4.5.2 · **Output:** Library, WinExe
 
 ## Solution structure
 
-| Project | Language | Path |
-|---------|----------|------|
-| `ACTest` | C# | `ACTest/ACTest.csproj` |
-| `ACControls` | C# | `ACControls/ACControls.csproj` |
+| Project | Language | Type | Purpose |
+|---------|----------|------|---------|
+| `ACControls` (`ACControls/ACControls.csproj`) | C# | Class library | Custom Windows Forms controls |
+| `ACTest` (`ACTest/ACTest.csproj`) | C# | WinExe | Test host for ACControls |
 
 ## How to open
 
-Open `ACControls.sln` in Visual Studio.
+Open `ACControls.sln` in Visual Studio 2015 or later.
 
 ## Requirements
 
-- Visual Studio 2015, .NET Framework 4.5.2
+- Visual Studio 2015 to 2022
+- .NET Framework 4.5.2
 
 ## Attribution and provenance
 
-- **Assembly copyright:** Copyright ©  2016
+Working copy from my Historical Dev folder `ACControls`.
+Assembly copyright: Copyright © 2016.
 
 ## License
 
-MIT. See `LICENSE`.
+MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`.
